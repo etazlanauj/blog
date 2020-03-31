@@ -1,6 +1,12 @@
 body{
-    text-align: inherit;
+    text-align: center;
     font-family: arial;
-    color: pink;
+    color:#333;
     font-size: 72px;
+    margin: auto;
+}
+.rama{
+    width: 70%;
+    border: 1px solid red;
+    margin: auto;
 }
