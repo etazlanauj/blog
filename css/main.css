@@ -2,11 +2,15 @@ body{
     text-align: center;
     font-family: arial;
     color:#333;
-    font-size: 72px;
+    font-size: 16px;
     margin: auto;
 }
 .rama{
     width: 70%;
     border: 1px solid red;
     margin: auto;
+}
+h1{
+    color: red;
+    font-size: 60px;
 }
